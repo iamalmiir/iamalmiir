@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm currently working on a project called "AR Realty".<br>🌱 I'm currently learning Swift.<br>⚡️ Fun fact: My favorite fruit is 🫐.<br>💬 Ask me about any tech-related stuff.<br>📪 Email me at: <a href="mailto:iamalmiir@gmail.com">iamalmiir@iamalmir.tech</a>
+🔭 I'm currently working on a project called "AR Realty".<br>🌱 I'm currently learning Shell Scripting.<br>⚡️ Fun fact: My favorite fruit is 🫐.<br>💬 Ask me about any tech-related stuff.<br>📪 Email me at: <a href="mailto:iamalmiir@gmail.com">iamalmiir@iamalmir.tech</a>
 
 ## 🌐 Socials:
 
