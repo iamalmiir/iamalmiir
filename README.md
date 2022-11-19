@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm currently working on a project called "AR Realty".<br>🌱 I'm currently learning Web Crawling.<br>💬 Ask me about any tech-related stuff.<br>📪 Email me at: <a href="sayhi@iamalmir.tech">sayhi@iamalmir.tech</a>
+🔭 I'm currently working on a project called "Quizler".<br>🌱 I'm currently learning Web Crawling.<br>💬 Ask me about any tech-related stuff.<br>📪 Email me at: <a href="sayhi@iamalmir.tech">sayhi@iamalmir.tech</a>
 
 ## 🌐 Socials:
 
