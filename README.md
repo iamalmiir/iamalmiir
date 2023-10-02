@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm currently working on a project called "Hacktivity".<br>🌱 I'm currently learning Rust 🦀<br>💬 Ask me about any tech-related stuff.<br>📪 Email me at: <a href="sayhi@almir.io">sayhi@iamalmir.tech</a>
+🔭 I'm currently working on a project called "Hacktivity".<br>🌱 I'm currently learning Rust 🦀<br>💬 Ask me about any tech-related stuff.<br>📪 Email me at: <a href="r@almir.io">r@almir.io</a>
 
 ## 🌐 Socials:
 
