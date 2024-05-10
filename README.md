@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm undertaking a substantial challenge: porting the AR Realty project from Python to Rust.<br>🌱 I'm currently diving into the world of GCP and working towards earning my certification.<br>💬 Ask me about any tech-related stuff.<br>📪 Email me at: <a href="sayhi@aalmir.me">sayhi@aalmir.me</a>
+🔭 I'm undertaking a substantial challenge: porting the AR Realty project from Python to Rust.<br>🌱 I'm currently diving into the world of GCP and working towards earning my certification.<br>💬 Ask me about any tech-related stuff.<br>📪 Email me at: <a href="sayhi@aalmir.me">sayhi@almir.io</a>
 
 ## 🌐 Socials:
 
